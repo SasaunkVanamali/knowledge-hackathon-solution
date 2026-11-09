@@ -10,3 +10,6 @@ _fresh/
 snapshots_zip/
 *.zip
 _dev/
+
+# Assignment brief (interface.ai's document; not redistributed)
+Knowledge-Hackathon-Assignment.pdf
