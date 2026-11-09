@@ -1,0 +1,12 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+snapshots/0*/
+_fresh/
+
+# Graders: copy the kit's snapshots_zip/ (or snapshots/0*/) into this folder before running the scorer.
+snapshots_zip/
+*.zip
+_dev/
